@@ -1,1 +1,1 @@
-# Projeto-Lazarus-Sistema-PhotoSun-0.0.0.2v-Dimensionamento-e-Calculo-para-Sistema-Fotovoltaico
+# Software: Sistema - PhotoSun 0.0.0.2v - Dimensionamento e Calculo para Sistema Fotovoltaico
